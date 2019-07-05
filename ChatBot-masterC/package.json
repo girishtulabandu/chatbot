@@ -1,0 +1,18 @@
+{
+  "name": "ChatBot-masterCopy",
+  "version": "1.0.0",
+  "description": "Front End Chat Interface which allows users to connect with an API.AI bot of choice or any other service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {}
+}
