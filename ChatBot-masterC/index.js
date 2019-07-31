@@ -1,6 +1,4 @@
 
-//---------------------------------- Credentials Section ----------------------------------//
-// All credentials come from credentials.js which isnt on github
 
 // Information needed to access the api.ai bot, only thing needed to be changed
 // Emoji Bot
